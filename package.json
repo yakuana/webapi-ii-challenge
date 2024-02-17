@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "knex": "^2.4.0",
-    "sqlite3": "^4.0.9"
+    "sqlite3": "^4.2.0"
   },
   "devDependencies": {
     "nodemon": "^3.0.3"
